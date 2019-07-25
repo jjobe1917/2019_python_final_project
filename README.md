@@ -5,3 +5,4 @@ Provider_Name	Provider_Street_Address	Provider_City	Provider_State	Provider_Zip_
 Hospital_Referral_Region_Description	Outpatient_Services	Average_Estimated_Submitted_Charges
 Average_Total_Payments
 It also contain the name of the cloumns, the amount of rowns contain in the dataset, the min and max providers, correlation between variables, and graphs.
+You will need qgrid to load the project.
